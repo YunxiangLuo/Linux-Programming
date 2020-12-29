@@ -1,0 +1,1 @@
+openEuler操作系统的安装（基于QEMU/树莓派）

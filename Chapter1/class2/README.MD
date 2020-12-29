@@ -1,0 +1,1 @@
+GNU/Linux和openEuler许可证和版权
