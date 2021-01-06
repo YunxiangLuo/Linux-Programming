@@ -1,8 +1,6 @@
-# <center>《openEuler应用编程技术》</center>
+# 《openEuler应用编程技术》</center>
 
-罗云翔
-
----
+## 课程介绍
 
 课程名称：Linux应用编程技术
 
@@ -145,4 +143,4 @@ PPT和课程文档，实训讲解PPT、实训指导书和参考答案源码。
 ---
 ## Copyright
 
-![Logo](./joint_logo.png)
+![Logo](joint_logo.png)
